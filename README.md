@@ -2,6 +2,7 @@
 "Running Jupyter Lab with Docker" by chameleon
 
 NOTE: 
+
 ✔️ If the docker command stops responding, e.g. after deleting the Docker RAW file, should reset to factory default. 
 
 ✔️ Also, Docker.raw will be large in size, so specify the storage destination to an external SSD by changing the Disk image location in Extension.
