@@ -9,7 +9,7 @@ NOTE:
 
 ✔️ If you get the error "Cannot connect to the Docker daemon at unix:///var/run/docker.sock. Is the docker daemon running?", search for 'Docker' in Activity Monitor and stop it.
 
-✅ Added CI test function which is named pages build and deployment from Github-pages.
+✅ Added pages build and deployment function from Github-pages.
 
 
 ![Dist image location](https://github.com/keita-sa/dsenv-build/assets/58361623/ee3d9f26-6102-4b7e-9da4-32f2b8eeeaa2)
